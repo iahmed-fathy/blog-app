@@ -28,6 +28,7 @@ export default function ArticleDetailsPage() {
         <address className="flex justify-between items-center w-[300px]">
           <div className="flex gap-3 items-center ">
             <img
+              loading="lazy"
               src={article?.publisherImage}
               alt="publisher-Image"
               className="w-[36px] rounded-[28px]"
@@ -50,6 +51,7 @@ export default function ArticleDetailsPage() {
           </time>
         </address>
         <img
+          loading="lazy"
           src={article?.urlToImage}
           alt="Article-Image"
           className="rounded-[12px] max-h-[462px]"
@@ -78,6 +80,7 @@ export default function ArticleDetailsPage() {
               case "image":
                 return (
                   <img
+                    loading="lazy"
                     key={index}
                     className="rounded-[12px] mb-6 max-h-[462px]"
                     src={block.src}
@@ -102,6 +105,7 @@ export default function ArticleDetailsPage() {
                     className="w-fit self-center"
                   >
                     <img
+                      loading="lazy"
                       className="mb-6 bg-[#E8E8EA] rounded-[12px]"
                       src={block.src}
                     />

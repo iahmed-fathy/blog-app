@@ -36,10 +36,12 @@ const articles: ArticlesType[] = [
     author: "Tracy Wilson",
     title:
       "The Impact of Technology on the Workplace: How Technology is Changing",
-    urlToImage: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
     publishedAt: "2023-08-20",
     category: "Technology",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/906/906324.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/906/906324.png",
     content: [
       {
         type: "paragraph",
@@ -55,7 +57,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         alt: "Team collaborating with technology",
       },
       {
@@ -76,10 +78,12 @@ const articles: ArticlesType[] = [
     id: "Art2",
     author: "Sarah Ahmed",
     title: "Healthy Living in the Modern World: Balancing Work and Wellness",
-    urlToImage: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
     publishedAt: "2023-09-10",
     category: "Health",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/2966/2966489.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/2966/2966489.png",
     content: [
       {
         type: "paragraph",
@@ -95,7 +99,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1506089676908-3592f7389d4d",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1506089676908-3592f7389d4d",
         alt: "Healthy food on a plate",
       },
       {
@@ -116,10 +120,12 @@ const articles: ArticlesType[] = [
     id: "Art3",
     author: "James Carter",
     title: "Travel Smart: Tips for Exploring the World Safely and Efficiently",
-    urlToImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     publishedAt: "2023-10-05",
     category: "Travel",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
     content: [
       {
         type: "paragraph",
@@ -135,7 +141,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1",
         alt: "Traveler with backpack exploring mountains",
       },
       {
@@ -156,10 +162,12 @@ const articles: ArticlesType[] = [
     id: "Art4",
     author: "Laura Johnson",
     title: "Business in the Digital Age: Adapting to Rapid Change",
-    urlToImage: "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1507679799987-c73779587ccf",
     publishedAt: "2023-11-15",
     category: "Business",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
     content: [
       {
         type: "paragraph",
@@ -175,7 +183,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1542744094-24638eff58bb",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1542744094-24638eff58bb",
         alt: "E-commerce concept on laptop",
       },
       {
@@ -196,10 +204,12 @@ const articles: ArticlesType[] = [
     id: "Art5",
     author: "Dr. Michael Lee",
     title: "Exploring the Frontiers of Space Science",
-    urlToImage: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
     publishedAt: "2023-12-01",
     category: "Science",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/3212/3212608.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/3212/3212608.png",
     content: [
       {
         type: "paragraph",
@@ -215,7 +225,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://imageio.forbes.com/specials-images/imageserve/637d5415b2b26d8a7b588249/opportunity-rover-illustration-han-24-2004-by-NASA-AP/0x0.jpg?format=jpg&crop=1500,1500,x161,y0,safe&height=1500&width=1500",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://imageio.forbes.com/specials-images/imageserve/637d5415b2b26d8a7b588249/opportunity-rover-illustration-han-24-2004-by-NASA-AP/0x0.jpg?format=jpg&crop=1500,1500,x161,y0,safe&height=1500&width=1500",
         alt: "Mars surface with rover",
       },
       {
@@ -236,10 +246,12 @@ const articles: ArticlesType[] = [
     id: "Art6",
     author: "Emily Davis",
     title: "Living a Minimalist Lifestyle in a Busy World",
-    urlToImage: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
     publishedAt: "2024-01-10",
     category: "Lifestyle",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/2331/2331970.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/2331/2331970.png",
     content: [
       {
         type: "paragraph",
@@ -255,7 +267,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1493809842364-78817add7ffb",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1493809842364-78817add7ffb",
         alt: "Minimalist clean room",
       },
       {
@@ -278,10 +290,11 @@ const articles: ArticlesType[] = [
     title:
       "The Future of Education: How Digital Learning is Transforming Classrooms",
     urlToImage:
-      "https://plus.unsplash.com/premium_photo-1682125773446-259ce64f9dd7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RWR1Y2F0aW9ufGVufDB8fDB8fHww",
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://plus.unsplash.com/premium_photo-1682125773446-259ce64f9dd7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RWR1Y2F0aW9ufGVufDB8fDB8fHww",
     publishedAt: "2023-11-12",
     category: "Education",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/3135/3135755.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/3135/3135755.png",
     content: [
       {
         type: "paragraph",
@@ -297,7 +310,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://distance-educator.com/wp-content/uploads/Virtual_School_Learner.png",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://distance-educator.com/wp-content/uploads/Virtual_School_Learner.png",
         alt: "Students learning online",
       },
       {
@@ -318,10 +331,12 @@ const articles: ArticlesType[] = [
     id: "Art8",
     author: "Michael Lee",
     title: "Smart Finance: Managing Money in the Age of Digital Banking",
-    urlToImage: "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1567427017947-545c5f8d16ad",
     publishedAt: "2023-11-20",
     category: "Finance",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
     content: [
       {
         type: "paragraph",
@@ -337,7 +352,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1",
         alt: "Mobile banking app interface",
       },
       {
@@ -358,10 +373,12 @@ const articles: ArticlesType[] = [
     id: "Art9",
     author: "Sophia Martinez",
     title: "Minimalist Lifestyle: Finding Joy in Simplicity",
-    urlToImage: "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1497366754035-f200968a6e72",
     publishedAt: "2023-12-01",
     category: "Lifestyle",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/2920/2920244.png",
     content: [
       {
         type: "paragraph",
@@ -377,7 +394,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1505691938895-1758d7feb511",
         alt: "Minimalist home interior",
       },
       {
@@ -399,10 +416,11 @@ const articles: ArticlesType[] = [
     author: "David Green",
     title: "Protecting Our Planet: Small Steps for a Greener Future",
     urlToImage:
-      "https://images.unsplash.com/photo-1625947647211-761a47a7a24e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFByb3RlY3RpbmclMjBPdXIlMjBQbGFuZXQlM0ElMjBTbWFsbCUyMFN0ZXBzfGVufDB8fDB8fHww",
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1625947647211-761a47a7a24e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFByb3RlY3RpbmclMjBPdXIlMjBQbGFuZXQlM0ElMjBTbWFsbCUyMFN0ZXBzfGVufDB8fDB8fHww",
     publishedAt: "2023-12-15",
     category: "Environment",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/4149/4149670.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/4149/4149670.png",
     content: [
       {
         type: "paragraph",
@@ -418,7 +436,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
         alt: "Solar panels in a field",
       },
       {
@@ -440,10 +458,11 @@ const articles: ArticlesType[] = [
     author: "Chris Taylor",
     title: "Sports Science: How Technology is Enhancing Athlete Performance",
     urlToImage:
-      "https://images.unsplash.com/photo-1597007519573-0575fd4cc96b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BvcnRzJTIwU2NpZW5jZSUzQSUyMEhvdyUyMFRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D",
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1597007519573-0575fd4cc96b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BvcnRzJTIwU2NpZW5jZSUzQSUyMEhvdyUyMFRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D",
     publishedAt: "2024-01-05",
     category: "Sports",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/1041/1041150.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/1041/1041150.png",
     content: [
       {
         type: "paragraph",
@@ -459,7 +478,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1517649763962-0c623066013b",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1517649763962-0c623066013b",
         alt: "Athlete training with smartwatch",
       },
       {
@@ -480,10 +499,12 @@ const articles: ArticlesType[] = [
     id: "Art12",
     author: "Laura Chen",
     title: "Exploring the Universe: New Discoveries in Space Science",
-    urlToImage: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+    urlToImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
     publishedAt: "2024-01-18",
     category: "Science",
-    publisherImage: "https://cdn-icons-png.flaticon.com/512/201/201623.png",
+    publisherImage:
+      "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://cdn-icons-png.flaticon.com/512/201/201623.png",
     content: [
       {
         type: "paragraph",
@@ -499,7 +520,7 @@ const articles: ArticlesType[] = [
       },
       {
         type: "image",
-        src: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+        src: "https://res.cloudinary.com/dr0ouqv0y/image/fetch/w_800,q_auto,f_auto/https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
         alt: "Galaxy and stars view",
       },
       {

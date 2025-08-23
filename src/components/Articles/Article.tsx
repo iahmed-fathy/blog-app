@@ -13,6 +13,7 @@ export default function Card({ article, loading }: articleType) {
     <Link to={`/articles/${article.id}`}>
       <article className="flex flex-col gap-3 shadow rounded-[10px] p-3">
         <img
+          loading="lazy"
           src={article.urlToImage}
           alt="article-Img"
           className="w-full rounded-[6px] self-center"
